@@ -1,1 +1,1 @@
-# ahj-hw-1
+# ahj-hw-1 [![Build status](https://ci.appveyor.com/api/projects/status/sxh11c6yas425p7l?svg=true)](https://ci.appveyor.com/project/vasllly/ahj-hw-1)
